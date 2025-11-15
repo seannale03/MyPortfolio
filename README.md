@@ -3,7 +3,7 @@ These are the systems and projects I have worked on, showcasing my skills in web
 
 - ### Barangay Geographical Information System 
 - ### Charity First Foundation Inc. - Scholar Information System 
-- ### Tracecrusade 
+- ### Tracecrusade - Alumni Management System
 - ### PLM Integrated Admission System (Law and Medicine) 
 - ### PLM Admission Management System (Plmat, Clat, Cmat, and Graduate Schools) 
 
@@ -270,7 +270,7 @@ graph TB
 ---
 
 
-# Alumni Management System
+# Tracecrusade - Alumni Management System
 
 A comprehensive web-based alumni management system for Sacred Heart of Jesus Catholic School, designed to track and manage alumni information with secure authentication and dynamic content management.
 
