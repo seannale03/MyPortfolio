@@ -1,9 +1,9 @@
 # My Portfolio
 These are the systems and projects I have worked on, showcasing my skills in web development, full-stack applications, database management, and problem-solving. Each project demonstrates my experience in building functional, efficient, and user-friendly solutions.
 
-- #### Barangay Geographical Information System **
-- #### Charity First Foundation Inc. - Scholar Information System **
-- #### Tracecrusade **
+- ### Barangay Geographical Information System 
+- ### Charity First Foundation Inc. - Scholar Information System 
+- ### Tracecrusade 
 
 ---
 
