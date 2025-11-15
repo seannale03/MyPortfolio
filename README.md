@@ -265,7 +265,7 @@ graph TB
     F[Admin Users] --> A
     G[Scholars] --> A
     H[Applicants] --> A
-
+```
 
 ---
 
