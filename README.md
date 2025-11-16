@@ -54,14 +54,6 @@ A comprehensive web-based management system for Barangay 99, Zone 8, District 1 
 - **PostgreSQL 16**
 - Modern web browser
 
-## ⚡ Installation
-
-1. Clone the repository
-2. Configure database connection
-3. Import initial database schema
-4. Set up admin credentials
-5. Deploy to web server
-
 ## 🔐 Admin Login
 
 - Access the admin panel at `/admin`
