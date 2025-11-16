@@ -159,6 +159,134 @@ This system was developed for my thesis and was awarded the Best Presenter award
 ---
 
 
+# PLM Admission Management System
+
+A comprehensive web-based admission platform for Pamantasan ng Lungsod ng Maynila (PLM). This system streamlines application processing across multiple programs with AI-powered document validation, secure applicant workflows, and role-based access management.
+
+## 🚀 Features
+
+### 🎓 Multi-Program Admission Support
+- **CMAT**: College of Medicine Admission Test
+- **CLAT**: College of Law Admission Test
+- **PLMAT**: PLM Admission Test
+- **Graduate Programs**: Advanced studies admission
+- **Program-Specific Requirements**: Dynamic forms and document sets per program
+
+### 👥 Role-Based Access Control
+- **Applicant Portal**: Application submission, document upload, and status tracking
+- **Admin Dashboard**: Review and validate applications
+- **Role-Specific Interfaces**: UI varies based on user privileges
+
+### 📄 Document Management & Validation
+- Secure file uploads (PDF, PNG, JPG)
+- AI-powered verification (CNN + Levenshtein algorithm)
+- Fraud detection for manipulated documents
+- Real-time document status (Pending / Verified / Rejected)
+
+### 🤖 AI Integration
+- CMAT AI Assistant: OpenAI-powered chatbot for applicant support
+- Smart document analysis for credentials verification
+- AI-assisted review for administrators
+
+### 📊 Application Tracking & Reporting
+- Real-time application progress
+- Exportable reports (PDF, Excel, CSV)
+- Admin analytics dashboard
+- Document authenticity summaries
+
+### 📧 Communication System
+- Automated email notifications
+- Google SMTP integration
+- Application reminders and status alerts
+
+## 🔐 Admin & User Access
+
+### Applicant Access
+- Register an account
+- Submit applications
+- Upload required documents
+- Track application status
+- AI-assisted support
+
+### Admin Access
+- Review and validate applications
+- Generate reports
+- Monitor analytics
+- Manage user accounts
+
+## 📋 System Modules
+
+### 1. Application Dashboard
+- Real-time application status
+- Document submission tracker
+- Application history
+- Personal information management
+
+
+### 2. Document Management
+- Multi-file upload
+- Document verification summary
+- Authenticity scoring
+- Submission monitoring
+
+### 3. Admin Panel
+- Application filtering and search
+- Document review & verification
+- Bulk operations
+- User management
+
+### 4. AI Assistant
+- Real-time applicant support
+- Explanation of requirements
+- Status inquiries
+- Intelligent chatbot guidance
+
+### 5. Reporting & Analytics
+- PDF and Excel report generation
+- Application statistics
+- Validation summaries
+- Dashboard insights
+
+
+### 6. Document Validation System
+- Automated AI-based document checking
+- Manual review interface
+- Confidence scoring
+- Flagging suspicious uploads
+
+## 🔧 Technical Features
+- Responsive design for desktop and mobile
+- Secure authentication and role-based access control
+- PDF/Excel reporting
+- Advanced search functionality
+- Client and server-side validation
+- JWT session management
+
+## 💾 Data Management
+- Applicant records
+- Document submission history
+- Validation results and summaries
+- Communication logs
+
+## 👨‍💼 Admin Capabilities
+- Manage applications
+- Validate documents
+- Generate reports and analytics
+- Monitor system usage
+- AI-assisted document review
+
+## 📄 License
+This system was developed for internship as Programmer Intern at Information and Communications Technology Office - Pamantasan ng Lungsod ng Maynila.
+
+---
+
+**Pamantasan ng Lungsod ng Maynila | Manila, Philippines**  
+*Streamlining admissions through technology*
+
+
+---
+
+
 # Charity First Foundation Inc. - Scholar Information System
 
 *A comprehensive scholarship management system built with modern web technologies*
