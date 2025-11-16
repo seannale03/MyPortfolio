@@ -162,18 +162,21 @@ A comprehensive web-based admission platform for Pamantasan ng Lungsod ng Maynil
 - **CLAT**: College of Law Admission Test
 - **PLMAT**: PLM Admission Test
 - **Graduate Programs**: Advanced studies admission
+  
+<img width="1906" height="953" alt="image" src="https://github.com/user-attachments/assets/27aa044f-e34d-49b4-9c24-8df182acff4b" />
+
 - **Program-Specific Requirements**: Dynamic forms and document sets per program
 
-<img width="1906" height="953" alt="image" src="https://github.com/user-attachments/assets/27aa044f-e34d-49b4-9c24-8df182acff4b" />
+<img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/12ebc9a1-bc13-408f-9a71-81fa16bd82fe" />
+
+<img width="1907" height="953" alt="image" src="https://github.com/user-attachments/assets/ba51cab1-fc67-4f20-adbc-9f59af1868b4" />
 
 ### 👥 Role-Based Access Control
 - **Applicant Portal**: Application submission, document upload, and status tracking
 - **Admin Dashboard**: Review and validate applications
 - **Role-Specific Interfaces**: UI varies based on user privileges
 
-<img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/12ebc9a1-bc13-408f-9a71-81fa16bd82fe" />
 
-<img width="1907" height="953" alt="image" src="https://github.com/user-attachments/assets/ba51cab1-fc67-4f20-adbc-9f59af1868b4" />
 
 ### 📄 Document Management & Validation
 - Secure file uploads (PDF, PNG, JPG)
