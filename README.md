@@ -172,10 +172,16 @@ A comprehensive web-based admission platform for Pamantasan ng Lungsod ng Maynil
 - **Graduate Programs**: Advanced studies admission
 - **Program-Specific Requirements**: Dynamic forms and document sets per program
 
+<img width="1906" height="953" alt="image" src="https://github.com/user-attachments/assets/27aa044f-e34d-49b4-9c24-8df182acff4b" />
+
 ### 👥 Role-Based Access Control
 - **Applicant Portal**: Application submission, document upload, and status tracking
 - **Admin Dashboard**: Review and validate applications
 - **Role-Specific Interfaces**: UI varies based on user privileges
+
+<img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/12ebc9a1-bc13-408f-9a71-81fa16bd82fe" />
+
+<img width="1907" height="953" alt="image" src="https://github.com/user-attachments/assets/ba51cab1-fc67-4f20-adbc-9f59af1868b4" />
 
 ### 📄 Document Management & Validation
 - Secure file uploads (PDF, PNG, JPG)
@@ -221,7 +227,8 @@ A comprehensive web-based admission platform for Pamantasan ng Lungsod ng Maynil
 - Document submission tracker
 - Application history
 - Personal information management
-
+  
+<img width="1906" height="952" alt="image" src="https://github.com/user-attachments/assets/620253a5-9101-4a93-9eb9-035f7214b54c" />
 
 ### 2. Document Management
 - Multi-file upload
@@ -229,11 +236,15 @@ A comprehensive web-based admission platform for Pamantasan ng Lungsod ng Maynil
 - Authenticity scoring
 - Submission monitoring
 
+<img width="1908" height="951" alt="image" src="https://github.com/user-attachments/assets/ffc43788-88c1-4f77-874c-636dcff45e22" />
+
 ### 3. Admin Panel
 - Application filtering and search
 - Document review & verification
 - Bulk operations
 - User management
+
+<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/c93ada62-d608-498e-b280-ae58b9776ee3" />
 
 ### 4. AI Assistant
 - Real-time applicant support
@@ -241,18 +252,23 @@ A comprehensive web-based admission platform for Pamantasan ng Lungsod ng Maynil
 - Status inquiries
 - Intelligent chatbot guidance
 
+<img width="958" height="570" alt="image" src="https://github.com/user-attachments/assets/11c06cfa-42f7-456b-9088-2c510889d95e" />
+
 ### 5. Reporting & Analytics
 - PDF and Excel report generation
 - Application statistics
 - Validation summaries
 - Dashboard insights
 
+<img width="958" height="570" alt="image" src="https://github.com/user-attachments/assets/077b17cf-ecc0-41fe-9989-912e437fb9d1" />
 
 ### 6. Document Validation System
 - Automated AI-based document checking
 - Manual review interface
 - Confidence scoring
 - Flagging suspicious uploads
+
+<img width="785" height="927" alt="image" src="https://github.com/user-attachments/assets/84add5c9-6399-4053-aad5-b87d4094f12d" />
 
 ## 🔧 Technical Features
 - Responsive design for desktop and mobile
